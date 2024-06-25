@@ -3,8 +3,10 @@
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 =======
+
 ## Introduction
->>>>>>> a1c6cca (readme written)
+
+> > > > > > > a1c6cca (readme written)
 
 This repository showcases a web scraping website built with a focus on modern development tools. It utilizes the following technologies:
 
@@ -48,21 +50,23 @@ This website serves as a demonstration of my skills in building modern, responsi
 <<<<<<< HEAD
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
+
 # pricewise
->>>>>>> fa23be2 (Initial commit)
-=======
+
+> > > > > > > # fa23be2 (Initial commit)
+
 # pricewise
->>>>>>> 59bbeaa (Initial commit)
-=======
+
+> > > > > > > # 59bbeaa (Initial commit)
+
 ### Top Searches
 
 ![alt text](image-1.png)
 
 ### Price Tracks
 
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 ### Email Modal
 
-![alt text](image-3.png)
->>>>>>> a1c6cca (readme written)
+![alt text](image-5.png)
