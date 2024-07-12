@@ -35,8 +35,13 @@ const Home = async () => {
         </div>
       </section>
       <section className="trending-section">
+<<<<<<< HEAD
         <h2 className="section-text">Trending</h2>
         <div className="flex flex-wrap gap-x-8 gap-y-16">
+=======
+        <h2 className="section-text ml-[80px]">Our Top Searches</h2>
+        <div className="w-[941.35px] flex flex-wrap gap-x-8 gap-y-16 m-auto">
+>>>>>>> 5335367 (Your descriptive commit message)
           {allProducts?.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
