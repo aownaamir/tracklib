@@ -1,72 +1,17 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-=======
+# Tracklib
 
-## Introduction
+Fullstack Amazon product scraper and tracker.
 
-> > > > > > > a1c6cca (readme written)
+## 🚀 Live Demo
+[View Live Project](https://track-lib.vercel.app/)
 
-This repository showcases a web scraping website built with a focus on modern development tools. It utilizes the following technologies:
+## 🛠 Tech Stack
+React.js, Next.js, MongoDB
 
-- **Next.js :** A React framework for server-side rendering and static site generation, providing a smooth user experience.
-- **Tailwind CSS :** A utility-first CSS framework offering rapid and responsive design customization.
-- **Node Mailer :** NodeMailer is a Node JS module that allows you to send emails from your server easily.
-- **Bright Data :** A global technology company that offers web data collection and proxy services to B2B companies.
+## ✨ Features
+- Scrape product data from Amazon links
+- Track price history
+- Email notifications on price drop
 
-This website serves as a demonstration of my skills in building modern, responsive, and user-friendly web applications. Feel free to explore the code and see how these technologies are implemented!
-
-## Features
-
-- Real time data being fetching from Amazon Pakistan's official site.
-- A dynamic search-bar capable of getting products from the URLs enterd and add them to our search.
-- Tracking of products average-price, highest-price, lowest-price and ofcourse the current price.
-- MongoDB for full data access and its aggregation, server-side JavaScript execution.
-- Automatic emailing what the price reaches the preferred price.
-
-## Tech Stack
-
-- Next.js
-- Tailwind
-- NodeMailer
-- Bright Data
-- Cron Job
-
-## What I learned
-
-- Styles Tailwind CSS
-- Data collection with Brigh Data
-- NodeMailer's email service.
-- Tailwind's reponsive webdesign
-- Git commands to upload the project
-
-# ScreenShots
-
-### Home
-
-![alt text](image.png)
-
-<<<<<<< HEAD
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-
-# pricewise
-
-> > > > > > > # fa23be2 (Initial commit)
-
-# pricewise
-
-> > > > > > > # 59bbeaa (Initial commit)
-
-### Top Searches
-
-![alt text](image-1.png)
-
-### Price Tracks
-
-![alt text](image-4.png)
-
-### Email Modal
-
-![alt text](image-5.png)
+## 📜 License
+MIT License
